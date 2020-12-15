@@ -1,2 +1,2 @@
 # hextics-rpg
-New game
+New game starting from scratch
