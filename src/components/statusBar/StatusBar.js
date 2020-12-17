@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/StatusBar.css';
+import './StatusBar.css';
 
 function StatusBar({level,health,mana}) {
     return (

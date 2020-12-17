@@ -1,10 +1,10 @@
 import React, {Component} from 'react';
-import Header from './components/Header';
-import StatusBar from './components/StatusBar';
-import Game from './components/Game';
-// import Tile from './components/Tile';
-import Message from './components/Message';
-import Footer from './components/Footer';
+import Header from './components//header/Header';
+import StatusBar from './components/statusBar/StatusBar';
+import Game from './components/game/Game';
+// import Tile from './components/tile/Tile';
+import Message from './components/message/Message';
+import Footer from './components/footer/Footer';
 
 class App extends Component {
     constructor() {
