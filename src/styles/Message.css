@@ -1,0 +1,8 @@
+.textbox {
+    color: whitesmoke;
+    background-color: black;
+    opacity: 75%;
+    padding: 50px;
+    text-align: center;
+    font-family: 'Merienda', cursive;
+}

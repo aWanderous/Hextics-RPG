@@ -1,9 +1,10 @@
 import React from 'react';
 import '../styles/StatusBar.css';
 
-function StatusBar({ health, mana }) {
+function StatusBar({level,health,mana}) {
     return (
         <nav className='status'>
+            <span id='level'>Level: {level}</span>
             <span id='health'>HP: {health}</span>
             <span id='mana'>MP: {mana}</span>
         </nav>

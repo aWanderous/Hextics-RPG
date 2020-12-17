@@ -1,18 +1,21 @@
 .status {
     font-weight: bolder;
     padding: 10px;
+    font-family: 'Merriweather', serif;
 }
 
-#health {
+#level, #health, #mana {
     padding: 5px;
     margin: 10px;
-    color: green;
-    background-color: gainsboro;
+}
+#level {
+    color: black;
+    font-size: 20px;
+}
+#health {
+    color: lightgreen;
 }
 
 #mana {
-    padding: 5px;
-    margin: 10px;
     color: blue;
-    background-color: gainsboro;
 }
