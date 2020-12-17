@@ -1,9 +1,18 @@
-#title {
-    color: green;
-    background-color: black;
-    text-align: center;
+.status {
+    font-weight: bolder;
+    padding: 10px;
 }
 
 #health {
-    color: wheat;
+    padding: 5px;
+    margin: 10px;
+    color: green;
+    background-color: gainsboro;
+}
+
+#mana {
+    padding: 5px;
+    margin: 10px;
+    color: blue;
+    background-color: gainsboro;
 }
